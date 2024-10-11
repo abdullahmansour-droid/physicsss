@@ -1,0 +1,14 @@
+    <nav>
+      <div id="uppper">
+        <div id="right">
+          <i class="fa-brands fa-facebook"></i>
+          <i class="fa-brands fa-instagram"></i>
+          <i class="fa-brands fa-x-twitter"></i>
+          <i class="fa-brands fa-whatsapp"></i>
+        </div>
+        <div id="left">
+            
+        </div>
+      </div>
+      <div id="lower"></div>
+    </nav>
